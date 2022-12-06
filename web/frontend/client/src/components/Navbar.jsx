@@ -14,7 +14,7 @@ function BasicExample() {
             <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="#link">Services</Nav.Link>
             <Nav.Link href="#link">Contact</Nav.Link>
-            <Nav.Link href="#home">About</Nav.Link>
+            <Nav.Link href="#home">About    </Nav.Link>
            
           </Nav>
 
